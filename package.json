@@ -1,0 +1,13 @@
+{
+  "name": "a-blog",
+  "description": "A Blog",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    	"express": "latest",
+    	"mongoose" : "latest",
+    	"jade" : "latest",
+   	"body-parser" : "latest",
+   	"connect-multiparty" : "latest"
+  	}
+}
