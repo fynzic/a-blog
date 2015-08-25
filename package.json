@@ -9,7 +9,7 @@
     	"jade" : "latest",
    	"body-parser" : "latest",
    	"connect-multiparty" : "latest",
-  	}
+  	},
   	"scripts": {
 3     "start": "node server.js",
 4   },
