@@ -8,6 +8,10 @@
     	"mongoose" : "latest",
     	"jade" : "latest",
    	"body-parser" : "latest",
-   	"connect-multiparty" : "latest"
+   	"connect-multiparty" : "latest",
   	}
+  	"scripts": {
+3     "start": "node server.js",
+4   },
+5   "main": "server.js",
 }
